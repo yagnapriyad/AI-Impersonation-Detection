@@ -7,8 +7,9 @@ for a user's tweet corpus including single-mean and multi-cluster.
 Additionally provides similarity_score and infer which take tweets and compare
 with user characterization.
 
-June, 2019
-@author: Joshua Rubin
+
+Jan, 2020
+@author: Yagna
 """
 
 import numpy as np
