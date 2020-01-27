@@ -3,8 +3,8 @@
 """
 Downloads tweets for users specified in 'twitter_users' field of config.json
 
-June, 2019
-@author: Joshua Rubin
+Jan, 2020
+@author: Yagna
 """
 
 from get_config import (get_config, create_dir_if_not_there)
