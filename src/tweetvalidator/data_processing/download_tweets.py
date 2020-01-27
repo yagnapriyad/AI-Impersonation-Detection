@@ -5,8 +5,8 @@ Gathers the tweet history of any twitter user and writes to a file.
 Requires valid Twitter API credentials.
 See: http://develope.twitter.com
 
-June, 2019
-@author: Joshua Rubin
+Jan, 2020
+@author: Yagna
 """
 
 import os
