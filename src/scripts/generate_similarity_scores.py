@@ -3,8 +3,8 @@
 """
 Generates similarity scores for a variety of models and configurations.
 
-June, 2019
-@author: Joshua Rubin
+Jan, 2020
+@author: Yagna
 """
 
 from get_config import (get_config, create_dir_if_not_there)
