@@ -4,8 +4,8 @@
 Takes filtered user tweet files from 'preprocessed_data_path', generates
 embeddings, and writes output processed_data_path.
 
-June, 2019
-@author: Joshua Rubin
+Jan, 2020
+@author: Yagna
 """
 
 from get_config import (get_config, create_dir_if_not_there)
