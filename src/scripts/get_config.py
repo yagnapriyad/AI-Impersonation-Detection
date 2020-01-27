@@ -3,8 +3,8 @@
 """
 Retrieves the project configuration regardless of PWD.
 
-June, 2019
-@author: Joshua Rubin
+Jan, 2020
+@author: Yagna
 """
 
 import os
