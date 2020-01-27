@@ -3,8 +3,9 @@
 """
 Reads raw twitter output and filters based on a list of regular expressions.
 
-June, 2019
-@author: Joshua Rubin
+
+Jan, 2020
+@author: Yagna
 """
 
 import os
