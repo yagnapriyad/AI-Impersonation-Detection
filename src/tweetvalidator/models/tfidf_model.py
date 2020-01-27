@@ -6,8 +6,9 @@ term-frequency-inverse-document-frequency (TFIDF), in which a context-corpus
 of other-user tweets are used to normalize common terms in the
 characterization. 
 
-June, 2019
-@author: Joshua Rubin
+
+Jan, 2020
+@author: Yagna
 """
 
 from .base_model import Model
