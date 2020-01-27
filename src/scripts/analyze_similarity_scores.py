@@ -4,8 +4,8 @@
 Injests similarity scores and produces an ROC/AUC graphs and data tables of
 true and false positive rates by classifier threshold.
 
-June, 2019
-@author: Joshua Rubin
+Jan, 2020
+@author: Yagna
 """
 import os
 import csv
