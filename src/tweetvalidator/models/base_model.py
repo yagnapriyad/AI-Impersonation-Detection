@@ -4,8 +4,8 @@
 Offers base class, Model, from which to derive various binary classifiers,
 embedding-bassed or otherwise (e.g. TFIDF).
 
-June, 2019
-@author: Joshua Rubin
+Jan, 2020
+@author: Yagna
 """
 
 class Model:
