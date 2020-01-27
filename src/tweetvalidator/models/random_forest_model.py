@@ -3,8 +3,8 @@
 """
 Provides RandomForestModel which can be trained on tweet embeddings.
 
-June, 2019
-@author: Joshua Rubin
+Jan, 2020
+@author: Yagna
 """
 
 import numpy as np
