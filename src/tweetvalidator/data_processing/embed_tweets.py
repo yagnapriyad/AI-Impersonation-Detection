@@ -7,8 +7,8 @@ for the slow model initialization, provides convenience funtion to map all
 the tweets from a preprocessed directory to a processed directory, and a shell
 invocation wrapper.
 
-June, 2019
-@author: Joshua Rubin
+Jan, 2020
+@author: Yagna
 """
 
 import os
