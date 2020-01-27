@@ -4,8 +4,8 @@
 Takes user tweet files from 'raw_data_path', applies filters, and writes output
 to preprocessed_data_path.
 
-June, 2019
-@author: Joshua Rubin
+Jan, 2020
+@author: Yagna
 """
 
 from get_config import (get_config, create_dir_if_not_there)
