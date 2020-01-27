@@ -1,0 +1,31 @@
+{
+  "max_tweets_per_user" : 1000,
+  "raw_data_path":"../data/raw",
+  "preprocessed_data_path":"../data/preprocessed",
+  "processed_negative_data_path":"../data/negative_processed",
+  "processed_data_path":"../data/processed",
+  "eval_output_path":"../data/model_eval",
+  "analysis_output_path":"../data/analysis",
+  "min_tweet_characters" : 1,
+  "regexp_tweet_filters": [
+           "http\\S+",
+           "@\\S+[ \\t]*",
+           "#\\S+[ \\t]*"  ],
+  "twitter_users":[
+           "@BernieSanders",
+           "@DalaiLama",
+           "@drfeifei",
+           "@elonmusk",
+           "@ewarren",
+           "@HamillHimself",
+           "@MrPeanut",
+           "@Oprah",
+           "@realDonaldTrump",
+           "@RollingStones",
+           "@InsightFellows",
+           "@Slavojiek",
+           "@StephenCurry30",
+           "@tim_cook",
+           "@yokoono",
+           "@YoYo_Ma" ]
+}
