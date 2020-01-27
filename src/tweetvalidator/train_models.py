@@ -3,8 +3,8 @@
 """
 Module for evaluating binary classification models of tweets authenticity.
 
-June, 2019
-@author: Joshua Rubin
+Jan, 2020
+@author: Yagna
 """
 
 import os
