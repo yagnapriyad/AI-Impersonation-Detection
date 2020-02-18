@@ -5,7 +5,7 @@ Social engineering is an major threat that everyone is facing whether is hacking
 
 #### Presentation Slides
 
-Further details regarding the motivation, methods and results of implementing this idea can be found in my presentation [here](https://tinyurl.com/v97rrbu) .
+Further details regarding the motivation, methods and results of implementing this idea can be found in my presentation [here](https://tinyurl.com/v97rrbu)
 
 #### Setup
           
@@ -59,11 +59,6 @@ If you're going to be using the Twitter API, edit <project_path>/build/insightTw
     - train_user_specific_models reads data from processed_Data_path; splits it into training and test data and performs classification model, accuracy metrics are generated to eval_output_path.
     - generate_similarity_scores.py reads data from processed_data_path; splits it into user-characterization and test sets; initializes a variety of models, both embedding-based and term-frequency-based; and uses those models to generate cosine similarity scores for the test data. These results are written to eval_output_path.
     - analyze_similarity_scores.py reads similarity scores from eval_output_path and generates ROC/AUC graphs and data tables providing "sensitivity at false-positive-rate x" statements. Results are written to analysis_output_path.
-    
-#### Unit Testing
-
-  - cd <project_path>/tests
-  - pytest
 
 
 
