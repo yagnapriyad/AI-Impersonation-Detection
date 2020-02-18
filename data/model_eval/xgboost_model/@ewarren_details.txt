@@ -1,0 +1,6 @@
+383 test tweets for @ewarren and others.
+TPR (for fraud ID):0.81
+FPR               :0.20
+Precision, recall for classes other, user:
+(array([0.80412371, 0.81216931]), array([0.81462141, 0.80156658]))
+Accuracy          :0.8080939947780679

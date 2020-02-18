@@ -1,0 +1,6 @@
+412 test tweets for @drfeifei and others.
+TPR (for fraud ID):0.82
+FPR               :0.24
+Precision, recall for classes other, user:
+(array([0.77220957, 0.81038961]), array([0.82281553, 0.75728155]))
+Accuracy          :0.7900485436893204

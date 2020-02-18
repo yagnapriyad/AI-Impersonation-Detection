@@ -1,0 +1,6 @@
+120 test tweets for @Slavojiek and others.
+TPR (for fraud ID):0.76
+FPR               :0.20
+Precision, recall for classes other, user:
+(array([0.79130435, 0.768     ]), array([0.75833333, 0.8       ]))
+Accuracy          :0.7791666666666667

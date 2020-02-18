@@ -1,0 +1,6 @@
+387 test tweets for @yokoono and others.
+TPR (for fraud ID):0.78
+FPR               :0.22
+Precision, recall for classes other, user:
+(array([0.78238342, 0.78092784]), array([0.78036176, 0.78294574]))
+Accuracy          :0.7816537467700259

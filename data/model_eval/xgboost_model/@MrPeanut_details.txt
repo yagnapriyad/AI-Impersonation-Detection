@@ -1,0 +1,6 @@
+429 test tweets for @MrPeanut and others.
+TPR (for fraud ID):0.99
+FPR               :0.01
+Precision, recall for classes other, user:
+(array([0.99297424, 0.98839907]), array([0.98834499, 0.99300699]))
+Accuracy          :0.9906759906759907

@@ -1,0 +1,6 @@
+387 test tweets for @RollingStones and others.
+TPR (for fraud ID):0.81
+FPR               :0.15
+Precision, recall for classes other, user:
+(array([0.84552846, 0.81481481]), array([0.80620155, 0.85271318]))
+Accuracy          :0.8294573643410853
