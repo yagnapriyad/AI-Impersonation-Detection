@@ -1,0 +1,6 @@
+412 test tweets for @DalaiLama and others.
+TPR (for fraud ID):0.94
+FPR               :0.15
+Precision, recall for classes other, user:
+(array([0.86444444, 0.93850267]), array([0.94417476, 0.85194175]))
+Accuracy          :0.8980582524271845

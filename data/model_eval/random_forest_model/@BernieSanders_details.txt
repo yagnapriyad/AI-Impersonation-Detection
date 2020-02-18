@@ -1,0 +1,6 @@
+377 test tweets for @BernieSanders and others.
+TPR (for fraud ID):0.86
+FPR               :0.22
+Precision, recall for classes other, user:
+(array([0.7955665 , 0.84482759]), array([0.85676393, 0.77984085]))
+Accuracy          :0.8183023872679045

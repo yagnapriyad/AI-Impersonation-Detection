@@ -1,0 +1,6 @@
+366 test tweets for @HamillHimself and others.
+TPR (for fraud ID):0.81
+FPR               :0.37
+Precision, recall for classes other, user:
+(array([0.68837209, 0.76821192]), array([0.80874317, 0.63387978]))
+Accuracy          :0.7213114754098361

@@ -1,0 +1,6 @@
+379 test tweets for @tim_cook and others.
+TPR (for fraud ID):0.79
+FPR               :0.19
+Precision, recall for classes other, user:
+(array([0.80592992, 0.79328165]), array([0.78891821, 0.81002639]))
+Accuracy          :0.7994722955145118

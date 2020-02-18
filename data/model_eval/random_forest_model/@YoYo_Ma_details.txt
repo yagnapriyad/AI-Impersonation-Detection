@@ -1,0 +1,6 @@
+294 test tweets for @YoYo_Ma and others.
+TPR (for fraud ID):0.86
+FPR               :0.31
+Precision, recall for classes other, user:
+(array([0.73546512, 0.83196721]), array([0.86054422, 0.69047619]))
+Accuracy          :0.7755102040816326

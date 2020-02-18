@@ -1,0 +1,6 @@
+422 test tweets for @elonmusk and others.
+TPR (for fraud ID):0.87
+FPR               :0.22
+Precision, recall for classes other, user:
+(array([0.80087527, 0.85529716]), array([0.86729858, 0.78436019]))
+Accuracy          :0.8258293838862559

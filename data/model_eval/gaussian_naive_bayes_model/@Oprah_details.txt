@@ -1,0 +1,6 @@
+398 test tweets for @Oprah and others.
+TPR (for fraud ID):0.69
+FPR               :0.20
+Precision, recall for classes other, user:
+(array([0.7740113 , 0.71945701]), array([0.68844221, 0.79899497]))
+Accuracy          :0.7437185929648241

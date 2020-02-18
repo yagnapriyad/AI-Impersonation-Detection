@@ -1,0 +1,6 @@
+191 test tweets for @InsightFellows and others.
+TPR (for fraud ID):0.92
+FPR               :0.21
+Precision, recall for classes other, user:
+(array([0.81481481, 0.90963855]), array([0.92146597, 0.79057592]))
+Accuracy          :0.856020942408377

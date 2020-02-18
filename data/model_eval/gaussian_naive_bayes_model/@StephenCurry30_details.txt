@@ -1,0 +1,6 @@
+391 test tweets for @StephenCurry30 and others.
+TPR (for fraud ID):0.80
+FPR               :0.33
+Precision, recall for classes other, user:
+(array([0.70909091, 0.76900585]), array([0.79795396, 0.67263427]))
+Accuracy          :0.7352941176470589

@@ -1,0 +1,6 @@
+375 test tweets for @realDonaldTrump and others.
+TPR (for fraud ID):0.88
+FPR               :0.21
+Precision, recall for classes other, user:
+(array([0.80731707, 0.87058824]), array([0.88266667, 0.78933333]))
+Accuracy          :0.836
